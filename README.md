@@ -22,10 +22,10 @@ This report is an independent academic exercise conducted entirely using publicl
 
 | File | Description |
 |------|-------------|
-| [`RiskAssessment.md`](RiskAssessment.md) | Full final report — qualitative + quantitative FAIR analysis, MITRE ATT&CK mappings, recommendations |
+| `Research.docx` | Original preliminary document |
 | [`Research.md`](Research.md) | Preliminary research document — initial asset/threat/actor mapping that informed the final report |
 | `RiskAssessment.docx` | Original formatted report (download for full layout with figures) |
-| `Research.docx` | Original preliminary document |
+| [`RiskAssessment.md`](RiskAssessment.md) | Full final report — qualitative + quantitative FAIR analysis, MITRE ATT&CK mappings, recommendations |
 
 ---
 
